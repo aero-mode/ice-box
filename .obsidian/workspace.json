@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "b6fb099c4a76168b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9c89099ba131dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bdf17ea8656a30f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "monolit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fc7c24d1368418c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e18458a850e627d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e12b18c9327472e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "113c3a62af1301d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8076e0d72cc592bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "005300b5ba63786f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b9eb812480dee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31a50f1bda8653fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "monolit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00eeb5df1ffed8b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "monolit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "847c0b4f53f9c4f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90d26d972a4359dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "monolit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5bdf17ea8656a30f",
+  "lastOpenFiles": [
+    "python.md",
+    "monolit.md",
+    "guppy.md",
+    "asyncio.md",
+    "библиотеки.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "2024-07-21.md",
+    "guppy",
+    "2023-11-07.md"
+  ]
+}
